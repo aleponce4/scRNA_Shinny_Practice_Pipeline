@@ -1,4 +1,4 @@
-# SingleCell-RNAseq--Shinny -TrainingToolkit
+# SingleCell-RNAseq-Shinny -TrainingToolkit
 
 This pipeline is designed for the analysis and visualization of single-cell RNA sequencing (scRNA-seq) data. The pipeline was tested using publicly available scRNA-seq datasets from Bioconductor, but it should be adaptable to any scRNA-seq experiment when provided with an appropriate object.
 
