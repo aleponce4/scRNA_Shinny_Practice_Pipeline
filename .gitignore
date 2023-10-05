@@ -1,0 +1,54 @@
+# R related (existing)
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Rproj.user/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+.Renviron
+docs/
+po/*~
+rsconnect/
+
+# Python related (new)
+__pycache__/
+*.py[cod]
+*.env  # environment variables
+*.venv  # Python virtual environment
+
+# Data files (new)
+*.csv
+*.tsv
+*.xlsx
+*.h5  # HDF5 files
+*.json
+*.xml
+<<<<<<< HEAD
+*.rds
+
+# Large .rds files in data/raw
+data/raw/BacherTCellData.rds
+data/raw/DarmanisBrainData.rds
+data/raw/kotliarovPBMCData.rds
+data/raw/LaMannoBrainData_human_es.rds
+data/raw/LaMannoBrainData_human_ips.rds
+data/raw/LedergorMyelomaData.rds
+data/raw/ReprocessedFluidigmData.rds
+data/raw/xinPancreasData.rds
+data/raw/zhongPrefrontalData.rds
+=======
+>>>>>>> 9a385e3bf3b6507a1babf5713b59cd8d9acbc1ef
+
+# Other (new)
+.DS_Store  # Mac system file
+
